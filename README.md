@@ -1,14 +1,6 @@
 # wireframe
-Created a general wire-frame of boxes in used in HTML and CSS.  
-
-Having an active and healthy commit history on GitHub. It is also extremely important for making sure your work is saved in your repository. If something breaks, committing often ensures you are able to go back to a working version of your code.
-Committing often is a signal to employers that you are actively working on your code and learning.
-
-We use the mantra “commit early and often.”  This means that when you write code that works, add it and commit it!
-Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
-Be clear and descriptive in your commit messaging.
-
-When writing a commit message, avoid vague messages like "fixed." Be descriptive so that you and anyone else looking at your repository knows what happened with each commit.
+Created a general wire-frame of boxes in used in HTML and CSS.
+_____________________________________________________________________________________
 
 Instructions
 Create a new repository in GitHub called HW-Wireframe.
